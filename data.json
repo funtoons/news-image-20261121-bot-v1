@@ -1,0 +1,190 @@
+{
+ "also": [
+  "Paris court sentences 3 police over the racist 2020 beating of Michel Zecler.",
+  "Pentagon declassifies 8th tranche of UFO footage from the Middle East.",
+  "US-Iran war: Hormuz attacks go on; Trump says war runs into 2027.",
+  "Gaza: 1 Palestinian killed in Israeli drone strike; EU urges ceasefire.",
+  "Bangladesh PM Tarique Rahman blames India and the Awami League for violence.",
+  "Iraq arrests 8 oil officials over fraud; forces retake Jurf al-Sakhar.",
+  "China tells Japan to 'correct false statements and actions' on Taiwan.",
+  "Ebola hits about 100 schools in eastern DR Congo; dozens of pupils dead.",
+  "Colombia holds a nationwide work stoppage amid protests.",
+  "UK and EU to settle post-Brexit student tuition fees within six months.",
+  "Malaysia reveals Rohingya resettlement plan, then deletes the post.",
+  "Rohingya mark the historic ICJ ruling that Myanmar committed genocide.",
+  "ANC fights to keep South Africa's key cities after an election setback.",
+  "Nepal: Balendra Shah faces his India test.",
+  "Denmark approves a security agreement with the US and Greenland.",
+  "UN cuts its food-aid target despite looming food insecurity.",
+  "Epstein network: at least 17 women from post-Soviet states drawn in.",
+  "White House tells journalists on Air Force One to hand over phones.",
+  "Depardieu and a French author investigated over sexual allegations.",
+  "US teen pleads not guilty in a plan to attack an Indian shrine in Illinois."
+ ],
+ "cutoff": "Stories verified against 2+ sources as of 21 Nov 2026, 06:00 UTC.",
+ "date": "Saturday, 21 November 2026",
+ "main": [
+  {
+   "body": "Moscow fired 400+ drones and 110+ missiles overnight; at least 8 died in Kyiv. Two missiles and a drone came down in Poland.",
+   "head": "Russia's mass strike hits Ukraine; missiles land in Poland",
+   "icon": "missile",
+   "kicker": "KYIV / WARSAW",
+   "lat": 52.0,
+   "lon": 19.0,
+   "n": 1
+  },
+  {
+   "body": "S&P 500 lost 3.7% to 6,910, its 7th straight drop; Nvidia fell 13.8%.",
+   "head": "AI rout drags S&P 500 into correction",
+   "icon": "chart",
+   "kicker": "NEW YORK / MARKETS",
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 2
+  },
+  {
+   "body": "Saudi defences downed three missiles aimed at Riyadh early on Saturday.",
+   "head": "Houthi missiles at Riyadh shot down",
+   "icon": "shield",
+   "kicker": "RIYADH",
+   "lat": 24.7,
+   "lon": 46.7,
+   "n": 3
+  },
+  {
+   "body": "He defended his Putin and Xi ties and threatened a data-centre tax.",
+   "head": "Trump defends Putin and Xi ties",
+   "icon": "flags",
+   "kicker": "WASHINGTON",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 4
+  },
+  {
+   "body": "Russian agents tried to kill rapper Kyivstoner at a concert; two charged.",
+   "head": "Denmark foils 'plot to kill rapper'",
+   "icon": "target",
+   "kicker": "COPENHAGEN",
+   "lat": 55.7,
+   "lon": 12.6,
+   "n": 5
+  },
+  {
+   "body": "EU states agreed EUR 1bn for drones, air defence and ammunition for Kyiv.",
+   "head": "EU approves EUR 1bn more arms aid",
+   "icon": "drone",
+   "kicker": "BRUSSELS",
+   "lat": 50.8,
+   "lon": 4.4,
+   "n": 6
+  },
+  {
+   "body": "Shut the jail by 2032, replacing it with four smaller borough jails.",
+   "head": "Mamdani: close Rikers by 2032",
+   "icon": "bars",
+   "kicker": "NEW YORK",
+   "lat": 40.8,
+   "lon": -73.9,
+   "n": 7
+  },
+  {
+   "body": "Nikhil Gupta got 19 years for plotting to kill Sikh separatist Pannun.",
+   "head": "19 years for Sikh murder plot",
+   "icon": "gavel",
+   "kicker": "NEW YORK / JUSTICE",
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 8
+  },
+  {
+   "body": "Police recorded 581 women murdered from July to September.",
+   "head": "581 women killed in South Africa",
+   "icon": "candle",
+   "kicker": "JOHANNESBURG",
+   "lat": -26.2,
+   "lon": 28.0,
+   "n": 9
+  },
+  {
+   "body": "Seoul ranked first of 194 countries, its first time on top in 12 years.",
+   "head": "South Korea tops UN e-gov index",
+   "icon": "globe",
+   "kicker": "SEOUL / TECHNOLOGY",
+   "lat": 37.6,
+   "lon": 127.0,
+   "n": 10
+  }
+ ],
+ "map_pins": [
+  [
+   52.0,
+   19.0,
+   "1"
+  ],
+  [
+   40.7,
+   -74.0,
+   "2"
+  ],
+  [
+   24.7,
+   46.7,
+   "3"
+  ],
+  [
+   55.7,
+   12.6,
+   "5"
+  ],
+  [
+   50.8,
+   4.4,
+   "6"
+  ],
+  [
+   -26.2,
+   28.0,
+   "9"
+  ],
+  [
+   37.6,
+   127.0,
+   "10"
+  ]
+ ],
+ "numbers": [
+  [
+   "400+",
+   "drones fired at Ukraine"
+  ],
+  [
+   "110+",
+   "missiles in the barrage"
+  ],
+  [
+   "-3.7%",
+   "S&P 500 on Friday"
+  ],
+  [
+   "EUR 1bn",
+   "new EU arms aid"
+  ],
+  [
+   "581",
+   "women killed"
+  ],
+  [
+   "19y 7m",
+   "Gupta sentence"
+  ],
+  [
+   "3",
+   "missiles downed"
+  ],
+  [
+   "100",
+   "Ebola in Congo"
+  ]
+ ],
+ "paper": "THE WORLD IN ONE PAGE"
+}
